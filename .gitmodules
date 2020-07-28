@@ -1,0 +1,6 @@
+[submodule "diywm_backend"]
+	path = diywm_backend
+	url = git@github.com:nathan-stamand/diywm-backend.git
+[submodule "diywm_frontend"]
+	path = diywm_frontend
+	url = git@github.com:nathan-stamand/diywm-frontend.git
